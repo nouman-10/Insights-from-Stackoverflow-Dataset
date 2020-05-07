@@ -29,7 +29,7 @@ The repository contains 4 individual notebooks, each answering the above mention
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available.
+The main findings of the code can be found at the post available [here](https://medium.com/@nouman10/insights-from-stackoverflows-data-from-the-last-three-years-ea50bba90736).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
